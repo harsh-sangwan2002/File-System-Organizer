@@ -35,6 +35,5 @@ to run the script
 
 ## Demo Video
 
-- [Link](https://streamable.com/uy4wkp)
+- [Link](https://app.gemoo.com/share/home?codeId=DW4g9QeoGWAeQ)
 
-https://github.com/harsh-sangwan2003/File-System-Organiser/assets/84121947/bf33b7a9-269f-457e-92ee-d16a7258f263.mp4
