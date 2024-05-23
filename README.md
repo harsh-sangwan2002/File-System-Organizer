@@ -4,8 +4,6 @@ A quick guide to my Project ->
 
 https://github.com/harsh-sangwan2003/File-System-Organiser/assets/84121947/c8638c2a-4a13-4077-8934-e9b0270fede4.mp4
 
-<img src ="/image.webp">
-
 ## Tools Used
 
 - NodeJs
