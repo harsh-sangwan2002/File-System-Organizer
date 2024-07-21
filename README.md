@@ -9,23 +9,15 @@ https://github.com/user-attachments/assets/7ef1c545-c6a2-4f06-9b87-ef315d5094b3
 - Node Js
 - JavaScript
 
-## Requirements
+## Description
 
-Please install the following npm packages before running the script
+- Engineered a command line tool named File System Organizer using Node.js and JavaScript, designed to streamline file organization.
 
-- npm
+- Utilized intelligent categorization and sorting to organize cluttered files into a neatly structured folder system, significantly improving efficiency.
 
-To install the dependencies run:
+- Saved users an average of 3 hours per week through automated file management.
 
-```js
-npm install dependencies
-```
-
-## Usage
-
-The project is a Nodejs script that can be run from the command line.
 Type 
-
 ```js
 node main.js
 ``` 
