@@ -3,8 +3,6 @@
 - Crafted a Node.js command line tool that automates file management, saving users 3 hours weekly with efficient categorization.
 
 
-<img src ="/image.webp">
-
 ## Tools Used
 
 - Node Js
