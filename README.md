@@ -8,7 +8,7 @@ A quick guide to my Project ->
 
 ## Tools Used
 
-- NodeJs
+- Node Js
 - JavaScript
 
 ## Requirements
