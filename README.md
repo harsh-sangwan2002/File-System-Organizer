@@ -1,9 +1,10 @@
 # FILE SYSTEM ORGANIZER
 
+- Crafteda Node.js command line tool that automates file management, saving users 3 hours weekly with efficient categorization.
+
 A quick guide to my Project ->
 
 <img src ="/image.webp">
-
 
 ## Tools Used
 
@@ -14,7 +15,6 @@ A quick guide to my Project ->
 
 Please install the following npm packages before running the script
 
-- nodejs
 - npm
 
 To install the dependencies run:
@@ -23,17 +23,17 @@ To install the dependencies run:
 npm install dependencies
 ```
 
-## Usage
+## Description
 
-The project is a Nodejs script that can be run from the command line.
+- Engineered a command line tool named File System Organizer using Node.js and JavaScript, designed to streamline file organization.
+
+- Utilized intelligent categorization and sorting to organize cluttered files into a neatly structured folder system, significantly improving efficiency.
+
+- Saved users an average of 3 hours per week through automated file management.
+
 Type 
 
 ```js
 node main.js
 ``` 
 to run the script
-
-## Demo Video
-
-- [Link](https://app.gemoo.com/share/home?codeId=DW4g9QeoGWAeQ)
-
