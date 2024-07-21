@@ -2,9 +2,7 @@
 
 - Crafted a Node.js command line tool that automates file management, saving users 3 hours weekly with efficient categorization.
 
-A quick guide to my Project ->
 
-<img src ="/image.webp">
 
 ## Tools Used
 
@@ -32,8 +30,3 @@ Type
 node main.js
 ``` 
 to run the script
-
-## Demo Video
-
-- [Link](https://app.gemoo.com/share/home?codeId=DW4g9QeoGWAeQ)
-
