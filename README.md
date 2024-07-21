@@ -4,7 +4,8 @@
 
 A quick guide to my Project ->
 
-<img src ="/image.webp">
+<img src ="/1.webp">
+
 
 ## Tools Used
 
@@ -23,17 +24,17 @@ To install the dependencies run:
 npm install dependencies
 ```
 
-## Description
+## Usage
 
-- Engineered a command line tool named File System Organizer using Node.js and JavaScript, designed to streamline file organization.
-
-- Utilized intelligent categorization and sorting to organize cluttered files into a neatly structured folder system, significantly improving efficiency.
-
-- Saved users an average of 3 hours per week through automated file management.
-
+The project is a Nodejs script that can be run from the command line.
 Type 
 
 ```js
 node main.js
 ``` 
 to run the script
+
+## Demo Video
+
+- [Link](https://app.gemoo.com/share/home?codeId=DW4g9QeoGWAeQ)
+
